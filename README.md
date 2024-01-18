@@ -32,8 +32,6 @@
 This game was developed just for educational purposes.<br>
 Its simple developed using Provider as state management while my learning process.<br>
 I use Firebase realtime database to store players.<br>
-This game is also developed in flutter web and deployed to try!<br>
-https://guerracivil-iesfernandoiii.netlify.app/#onboarding
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
