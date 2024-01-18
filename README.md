@@ -45,7 +45,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Adrián López - [@adrilopezdev](https://twitter.com/adrilopezdev) - adrianlopezruiz.dev@gmail.com@gmail.com
+Adrián López - [@adrilopezdev](https://twitter.com/adrilopezdev) - adrianlopezruiz.dev@gmail.com
 
 Project Link: [https://github.com/adlopezruiz/civilwar_flutter_game](https://github.com/adlopezruiz/civilwar_flutter_game)
 
